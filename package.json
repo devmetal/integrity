@@ -1,0 +1,13 @@
+{
+  "name": "pathfinder",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "event-stream": "^3.3.4",
+    "glob": "^7.1.1"
+  },
+  "bin": {
+    "pathfind": "./index.js"
+  }
+}
